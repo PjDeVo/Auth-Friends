@@ -1,0 +1,14 @@
+.header-list {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.header-list a {
+  text-decoration: none;
+  color: black;
+}
+
+.header-item {
+  list-style-type: none;
+  margin-right: 20px;
+}
